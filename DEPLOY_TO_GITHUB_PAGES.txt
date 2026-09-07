@@ -1,0 +1,22 @@
+SOMA SEKHARA REDDY - PORTFOLIO
+
+Expected GitHub Pages URL:
+https://somury.github.io/data-analyst-portfolio/
+
+To publish:
+1. Open your GitHub repository: somury/data-analyst-portfolio
+2. Upload the CONTENTS of this folder to the repository root.
+3. If GitHub asks about replacing files, keep the new index.html and style.css.
+4. Go to Settings -> Pages.
+5. Under Build and deployment, choose:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+6. Save and wait a few minutes.
+7. Open:
+   https://somury.github.io/data-analyst-portfolio/
+
+Important:
+- The site is designed to work as a static GitHub Pages website.
+- The Resume button uses assets/Soma_Sekhara_Reddy_Resume.pdf.
+- Project buttons point to your GitHub project folders.
